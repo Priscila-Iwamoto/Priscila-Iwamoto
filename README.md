@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Power BI projects**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL and Java**
 
 - 📫 How to reach me **pric_7ar@hotmail.com**
 
