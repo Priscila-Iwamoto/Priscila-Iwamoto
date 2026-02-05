@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Power BI projects**
 
-- 🌱 I’m currently learning **SQL and Java**
+- 🌱 I’m currently learning **Java**
+
+- 🤓 Skilled in **DAX, Power Query and SQL**
 
 - 📫 How to reach me **pric_7ar@hotmail.com**
 
