@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priscila Iwamoto</h1>
-<h3 align="center">Always learning and growing in data analysis</h3>
+<h3 align="center">Always learning and growing in data</h3>
 
 - 🔭 I’m currently working on **Power BI projects**
 
